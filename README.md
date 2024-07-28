@@ -6,7 +6,7 @@
 
 #### Web link 
 
-vatsshubham100.github.io/Weather_App/
+http://vatsshubham100.github.io/Weather_App/
  
 ### Features of the project.
 
