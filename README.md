@@ -1,37 +1,45 @@
-# Weather_webApp
+# 🌤️ Weather WebApp
 
-## I used open weather API to fetch data 
+## Overview
 
-### This  web project done in html,css ,js
+This web application provides real-time weather data using the OpenWeather API. Built with HTML, CSS, and JavaScript, the app features dynamic weather updates, including temperature, background images, and weather icons based on the current weather conditions.
 
-#### Web link 
+🔗 **[Live Demo](http://vatsshubham100.github.io/Weather_App/)**
 
-http://vatsshubham100.github.io/Weather_App/
- 
-### Features of the project.
+## 🛠 Features
 
-* It provide dynamic weather data like temp, min max temp etc.
-* Dynamic background images change according to weather status.
-* Dynamic weather icon change according to weather status.
-* It provide basic information like feels like temperature,humidity,pressure,wind speed.
-* It will not accept empty input.
-* it will give you  alert if city name not matched with api  data.
-* a good  ux/ui 
+- **Dynamic Weather Data**: Displays current temperature, min/max temperature, and more.
+- **Dynamic Background Images**: Changes background images based on weather status.
+- **Dynamic Weather Icons**: Updates weather icons according to the current weather conditions.
+- **Basic Weather Information**: Includes additional details like feels-like temperature, humidity, pressure, and wind speed.
+- **Input Validation**: Ensures that the input field is not empty.
+- **Error Handling**: Provides alerts if the entered city name does not match with the API data.
+- **User Experience**: Designed with a focus on good UX/UI.
 
+## 📸 Snapshots
 
-### Snapshot
+### Default View
+![Default View](ss/demo1.png)
 
-* Default 
-<img src="ss/demo1.png" width="100%">
+### Valid City Input
+![Valid City Input](ss/demo.png)
 
-* when you entered any valid city
- <img src="ss/demo.png" width="100%">
+### Empty Input
+![Empty Input](ss/empty.png)
 
-* when you did'nt entered anything 
- <img src="ss/empty.png" width="100%">
+### City Not Found
+![City Not Found](ss/bad.png)
 
-* when entered city did'nt matched with data
- <img src="ss/bad.png" width="100%">
+## 🚀 Deployment
 
+The project is deployed using GitHub Pages.
 
+## 📖 Installation
 
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/vatsshubham100/Weather_App.git
+   cd Weather_App
